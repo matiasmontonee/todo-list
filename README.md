@@ -18,8 +18,7 @@ Permite crear, listar, completar y eliminar tareas tanto desde una interfaz web 
 
 ### 1. Clona el repositorio
 
-```bash
-git clone https://github.com/TU_USUARIO/todo-list.git
+git clone https://github.com/matiasmontonee/todo-list.git
 cd todo-list
 
 ### 2. Instala las dependencias de PHP
