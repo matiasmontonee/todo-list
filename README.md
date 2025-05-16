@@ -15,6 +15,7 @@ Permite crear, listar, completar y eliminar tareas tanto desde una interfaz web 
 ---
 
 ## Instalación y primer uso
+```bash
 
 ### 1. Clona el repositorio
 
